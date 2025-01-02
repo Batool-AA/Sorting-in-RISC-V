@@ -1,2 +1,1 @@
-# Sorting-in-RISC-V
-Insertion sort on single cycle and pipelined processor
+This repository contains an implementation of an insertion sort on single cycle and pipelined processor
